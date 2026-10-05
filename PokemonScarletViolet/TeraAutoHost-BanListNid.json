@@ -1,0 +1,10 @@
+{
+    "Blacklist": [
+        {"Enabled": true, "NIDs": [14968799647731936724,14287169641547843721], "Profiles": ["Medic:800028","Medic:44206","Ghost"], "DiscordIDs": [478861440455933972,925946108272836668,1156660350461149224,1142824870082781224,1156566490812780597], "Comment": "Permanently banned from PA, SHA, and raids. Context: https://discord.com/channels/695809740428673034/1050667958562738197/1156452850612846643"},
+        {"Enabled": true, "NIDs": [8210194277750344047], "Profiles": ["タケノリ:37217"], "DiscordIDs": [], "Comment": "12/5 on ML_Lacius's Shiny Flutter Mane"},
+        {"Enabled": true, "NIDs": [5296218975869167007], "Profiles": ["Chaz☆:994442"], "DiscordIDs": [348245404602597376], "Comment": "Cancelled 15 of Newt's raids in the row and is being an asshole. <@348245404602597376> `Chaz☆ | TID: 994442 | NID: 5296218975869167007`"}
+    ],
+    "Whitelist": [
+
+    ]
+}
